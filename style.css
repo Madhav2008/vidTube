@@ -63,5 +63,6 @@ nav {
 .nav-middle .search-box input {
     width: 400px;
     border: 0;
-    outline: 0;background: transparent;
+    outline: 0;
+    background: transparent;
 }
