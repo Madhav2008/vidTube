@@ -67,4 +67,6 @@ nav {
     background: transparent;
 }
 
-.nav-middle .search-box img {width: 15px;}
+.nav-middle .search-box img {
+    width: 15px;
+}
