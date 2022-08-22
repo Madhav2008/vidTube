@@ -23,7 +23,7 @@ nav {
     justify-content: space-between;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     background: #fff;
-    position: static;
+    position: sticky;
     top: 0;
     z-index: 10;
 }
