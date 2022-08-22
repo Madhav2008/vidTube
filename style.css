@@ -9,4 +9,6 @@ a {
     color: #5a5a5a;
 }
 
-img {cursor: pointer;}
+img {
+    cursor: pointer;
+}
