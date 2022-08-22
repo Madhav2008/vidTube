@@ -33,4 +33,6 @@ nav {
     margin-right: 25px;
 }
 
-.nav-right .user-icon {width: 35px;}
+.nav-right .user-icon {
+    width: 35px;
+}
