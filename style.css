@@ -13,4 +13,6 @@ img {
     cursor: pointer;
 }
 
-.flex-div {display: flex;}
+.flex-div {
+    display: flex;
+}
