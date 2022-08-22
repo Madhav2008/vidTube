@@ -92,5 +92,6 @@ nav {
 .shortcut-links a {
     display: flex;
     align-items: center;
-    margin-bottom: 20px;width: fit-content;
+    margin-bottom: 20px;
+    width: fit-content;
 }
