@@ -60,7 +60,7 @@ nav {
     border-radius: 25px;
 }
 
-.nav-middle .search-box {
+.nav-middle .search-box input{
     border: 1px solid #ccc;
     margin-right: 15px;
     padding: 8px 12px;
