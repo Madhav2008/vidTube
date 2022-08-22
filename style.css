@@ -89,4 +89,4 @@ nav {
     margin-right: 20px;
 }
 
-.shortcut-links a {display: ;}
+.shortcut-links a {display: flex;}
