@@ -122,4 +122,6 @@ nav {
     flex-wrap: wrap;
 }
 
-.subscribed-list a img {width: 25px;}
+.subscribed-list a img {
+    width: 25px;
+}
