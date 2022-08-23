@@ -165,6 +165,8 @@ nav {
     border-radius: 8px;
 }
 
-.list-container {display: grid;}
+.list-container {
+    display: grid;
+}
 
 .thumbnail {}
