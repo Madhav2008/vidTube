@@ -175,7 +175,7 @@ nav {
 
 .vid-list .thumbnail {
     width: 100%;
-    border-radius: 5%;
+    border-radius: 5px;
 }
 
 .vid-list .flex-div {
