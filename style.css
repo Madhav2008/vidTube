@@ -224,5 +224,5 @@ nav {
         display: none;
     }
 
-    .nav-right .user-icon {display: ;}
+    .nav-right .user-icon {display: block;}
 }
