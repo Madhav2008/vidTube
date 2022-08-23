@@ -166,7 +166,8 @@ nav {
 }
 
 .list-container {
-    display: grid;grid-template-columns: ;
+    display: grid;
+    grid-template-columns: ;
 }
 
 .thumbnail {}
