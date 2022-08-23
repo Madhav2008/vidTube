@@ -173,4 +173,6 @@ nav {
     margin-top: 15px;
 }
 
-.vid-list .thumbnail {width: 100%;}
+.vid-list .thumbnail {
+    width: 100%;
+}
