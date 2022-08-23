@@ -214,8 +214,7 @@ nav {
         display: none;
     }
 
-    .container ,{
-        display:
-         none;
+    .container ,.large-container{
+        display: none;
     }
 }
