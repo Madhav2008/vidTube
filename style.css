@@ -197,5 +197,6 @@ nav {
 .vid-info a {
     color: #000;
     font-weight: 600;
-    display: block;margin-bottom: 5px;
+    display: block;
+    margin-bottom: 5px;
 }
