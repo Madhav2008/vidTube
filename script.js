@@ -1,1 +1,1 @@
-var menuIcon = document.querySelector()
+var menuIcon = document.querySelector("")
