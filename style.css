@@ -220,5 +220,7 @@ nav {
         padding-right: 5%;
     }
 
-    .nav-right img {display: none;}
+    .nav-right img {
+        display: none;
+    }
 }
