@@ -115,7 +115,7 @@ nav {
 }
 
 .subscribed-list a {
-    font-size: 13px;
+    display: 13px;
     margin: 20px 0;
     color: #5a5a5a;
 }
