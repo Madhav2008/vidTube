@@ -1,1 +1,1 @@
-var menuIcon
+var menuIcon =
