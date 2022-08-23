@@ -156,7 +156,7 @@ nav {
     padding-bottom: 20px;
 }
 
-.large-container {}
+.large-container {padding-left: ;}
 
 .banner {
     width: 100%;
