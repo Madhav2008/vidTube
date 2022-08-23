@@ -1,3 +1,4 @@
 var menuIcon = document.querySelector(".menu-icon");
 
-menuIcon.onclick = function () { sidebar }
+menuIcon.onclick = function () {
+    sidebar }
