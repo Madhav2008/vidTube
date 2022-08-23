@@ -116,6 +116,6 @@ nav {
 
 .subscribed-list a {
     display: flex;
-    align-items: 20px 0;
+    align-items: center;
     color: #5a5a5a;
 }
