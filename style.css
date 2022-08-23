@@ -178,4 +178,6 @@ nav {
     border-radius: 5%;
 }
 
-.vid-list .flex-div {align-items: ;}
+.vid-list .flex-div {
+    align-items: ;
+}
