@@ -108,4 +108,6 @@ nav {
     width: 85%;
 }
 
-.subscribed-list h3 {font-size: 13px;}
+.subscribed-list h3 {
+    font-size: 13px;
+}
