@@ -4,4 +4,5 @@ var container = document.querySelector(".container");
 
 menuIcon.onclick = function () {
     sidebar.classList.toggle("small-sidebar");
+    sidebar.classList.toggle("small-sidebar");
 }
