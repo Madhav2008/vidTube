@@ -170,7 +170,7 @@ nav {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-column-gap: 16px;
     grid-row-gap: 30px;
-    grid-row-gap: 15px;
+    margin-top: 15px;
 }
 
 .thumbnail {}
