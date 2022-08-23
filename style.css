@@ -97,4 +97,6 @@ nav {
     flex-wrap: wrap;
 }
 
-.shortcut-links a:first-child {color: ;}
+.shortcut-links a:first-child {
+    color: ;
+}
