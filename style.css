@@ -133,5 +133,5 @@ nav {
 }
 
 .small-sidebar a p{
-    width: none;
+    display: none;
 }
