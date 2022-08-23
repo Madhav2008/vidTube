@@ -115,7 +115,7 @@ nav {
 }
 
 .subscribed-list a {
-    display: 13px;
+    display: flex;
     margin: 20px 0;
     color: #5a5a5a;
 }
