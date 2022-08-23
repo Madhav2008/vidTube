@@ -206,5 +206,5 @@ nav {
 }
 
 @media (max-width: 900px) {
-    .menu-icon {}
+    .menu-icon {display: ;}
 }
