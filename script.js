@@ -1,3 +1,3 @@
 var menuIcon = document.querySelector(".menu-icon");
 
-menuIcon.onclick = function ()
+menuIcon.onclick = function (){}
