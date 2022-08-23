@@ -167,7 +167,7 @@ nav {
 
 .list-container {
     display: grid;
-    grid-template-columns: ;
+    grid-template-columns: repeat();
 }
 
 .thumbnail {}
