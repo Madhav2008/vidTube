@@ -1,1 +1,1 @@
-var menuIcon =document
+var menuIcon = document
