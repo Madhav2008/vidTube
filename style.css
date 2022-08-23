@@ -225,6 +225,7 @@ nav {
     }
 
     .nav-right .user-icon {
-        display: block;width: 30px;
+        display: block;
+        width: 30px;
     }
 }
