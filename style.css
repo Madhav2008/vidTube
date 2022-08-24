@@ -25,8 +25,7 @@ nav {
     background: #fff;
     position: sticky;
     top: 0;
-    z-index: 10;
-    width: 100%;
+    z-index: 10;width: 100%;
 }
 
 .nav-right img {
