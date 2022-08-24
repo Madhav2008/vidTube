@@ -263,4 +263,6 @@ nav {
     flex-basis: 30%;
 }
 
-.play-video video {width: 100%;}
+.play-video video {
+    width: 100%;
+}
