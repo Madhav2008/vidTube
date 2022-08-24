@@ -259,4 +259,4 @@ nav {
     flex-basis: 69%;
 }
 
-.right-sidebar {}
+.right-sidebar {flex-basis: 69%;}
