@@ -267,4 +267,6 @@ nav {
     width: 100%;
 }
 
-.side-video-list {display: flex;}
+.side-video-list {
+    display: flex;
+}
