@@ -255,4 +255,6 @@ nav {
     flex-wrap: wrap;
 }
 
-.play-video {flex-basis: 69%;}
+.play-video {
+    flex-basis: 69%;
+}
