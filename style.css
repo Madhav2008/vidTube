@@ -295,4 +295,6 @@ nav {
     font-size: 22px;
 }
 
-.play-video .play-video-info {display: flex;}
+.play-video .play-video-info {
+    display: flex;
+}
