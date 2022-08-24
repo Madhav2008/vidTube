@@ -233,5 +233,5 @@ nav {
         width: 100px;
     }
 
-    .nav-middle .mic-icon {}
+    .nav-middle .mic-icon {display: ;}
 }
