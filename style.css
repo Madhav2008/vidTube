@@ -251,5 +251,6 @@ nav {
 
 .row {
     display: flex;
-    justify-content: space-between;flex-wrap: ;
+    justify-content: space-between;
+    flex-wrap: ;
 }
