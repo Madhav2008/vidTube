@@ -229,5 +229,7 @@ nav {
         width: 30px;
     }
 
-    .nav-middle .search-box input {width: 100px;}
+    .nav-middle .search-box input {
+        width: 100px;
+    }
 }
