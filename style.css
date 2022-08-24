@@ -245,4 +245,6 @@ nav {
 
 /* Play Video Screen */
 
-.play-container {padding-left: 2%;}
+.play-container {
+    padding-left: 2%;
+}
