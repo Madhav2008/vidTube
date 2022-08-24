@@ -310,4 +310,6 @@ nav {
     margin-right: 8px;
 }
 
-.play-video .play-video-info a img {display: inline-flex;}
+.play-video .play-video-info a img {
+    display: inline-flex;
+}
