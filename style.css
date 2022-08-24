@@ -285,4 +285,6 @@ nav {
     flex-basis: 49%;
 }
 
-.play-video .tags a {color: #0000ff;}
+.play-video .tags a {
+    color: #0000ff;
+}
