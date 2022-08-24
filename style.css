@@ -233,5 +233,7 @@ nav {
         width: 100px;
     }
 
-    .nav-middle .mic-icon {display: none;}
+    .nav-middle .mic-icon {
+        display: none;
+    }
 }
