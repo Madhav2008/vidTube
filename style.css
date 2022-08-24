@@ -281,4 +281,6 @@ nav {
     flex-basis: 49%;
 }
 
-.side-video-list .vid-info {flex-basis: 49%;}
+.side-video-list .vid-info {
+    flex-basis: 49%;
+}
