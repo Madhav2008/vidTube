@@ -298,5 +298,6 @@ nav {
 .play-video .play-video-info {
     display: flex;
     align-items: center;
-    justify-content: space-between;flex-wrap: wrap;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
