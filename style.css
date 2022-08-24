@@ -297,5 +297,6 @@ nav {
 
 .play-video .play-video-info {
     display: flex;
-    align-items: center;justify-content: space-between;
+    align-items: center;
+    justify-content: space-between;
 }
