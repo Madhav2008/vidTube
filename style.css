@@ -273,4 +273,6 @@ nav {
     margin-bottom: 8px;
 }
 
-.side-video-list img {width: 100%;}
+.side-video-list img {
+    width: 100%;
+}
