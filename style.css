@@ -311,5 +311,6 @@ nav {
 }
 
 .play-video .play-video-info a img {
-    display: inline-flex;align-items: center;
+    display: inline-flex;
+    align-items: center;
 }
