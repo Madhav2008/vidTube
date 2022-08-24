@@ -237,5 +237,7 @@ nav {
         display: none;
     }
 
-    .logo {width: 90px;}
+    .logo {
+        width: 90px;
+    }
 }
