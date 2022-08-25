@@ -361,4 +361,6 @@ nav {
     cursor: pointer;
 }
 
-.vid-description {padding-left: 55px;}
+.vid-description {
+    padding-left: 55px;
+}
