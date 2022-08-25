@@ -386,5 +386,5 @@ nav {
 
 .add-comment img {
     width: 35px;
-    width: 50%;
+    border-radius: 50%;
 }
