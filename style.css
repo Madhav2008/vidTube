@@ -366,4 +366,6 @@ nav {
     margin: 15px 0;
 }
 
-.vid-description p {font-size: 14px;}
+.vid-description p {
+    font-size: 14px;
+}
