@@ -333,4 +333,6 @@ nav {
     flex: 1;
 }
 
-.publisher img {width: 40px;}
+.publisher img {
+    width: 40px;
+}
