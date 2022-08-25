@@ -372,6 +372,8 @@ nav {
     color: #5a5a5a;
 }
 
-.vid-description h4 {font-size: 14px;
+.vid-description h4 {
+    font-size: 14px;
     margin-bottom: 5px;
-    color: #5a5a5a;}
+    color: #5a5a5a;
+}
