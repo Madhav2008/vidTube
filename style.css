@@ -394,5 +394,6 @@ nav {
     border: 0;
     outline: 0;
     border-bottom: 1px solid #ccc;
-    width: 100%;padding-top: 10px;
+    width: 100%;
+    padding-top: 10px;
 }
