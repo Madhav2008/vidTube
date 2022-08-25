@@ -390,4 +390,6 @@ nav {
     margin-right: 15px;
 }
 
-.add-comment input {border: 0;}
+.add-comment input {
+    border: 0;
+}
