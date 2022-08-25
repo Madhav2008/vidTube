@@ -378,4 +378,6 @@ nav {
     margin-top: 15px;
 }
 
-.add-comment {display: flex;}
+.add-comment {
+    display: flex;
+}
