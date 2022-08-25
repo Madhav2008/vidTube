@@ -392,5 +392,6 @@ nav {
 
 .add-comment input {
     border: 0;
-    outline: 0;border-bottom: 1px solid #ccc;
+    outline: 0;
+    border-bottom: 1px solid #ccc;
 }
