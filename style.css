@@ -381,5 +381,5 @@ nav {
 .add-comment {
     display: flex;
     align-items: center;
-    margin: 30px;
+    margin: 30px 0;
 }
