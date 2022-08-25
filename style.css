@@ -340,4 +340,6 @@ nav {
     margin-right: 15px;
 }
 
-.publisher div p {color: #000;}
+.publisher div p {
+    color: #000;
+}
