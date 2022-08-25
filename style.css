@@ -323,4 +323,6 @@ nav {
     margin: 10px 0;
 }
 
-.publisher {display: flex;}
+.publisher {
+    display: flex;
+}
