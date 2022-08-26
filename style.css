@@ -436,4 +436,6 @@ nav {
     margin-right: 5px;
 }
 
-.old-comment .acomment-action span {margin-right: 90px;}
+.old-comment .acomment-action span {
+    margin-right: 90px;
+}
