@@ -401,5 +401,6 @@ nav {
 
 .old-comment {
     display: flex;
-    align-items: center;margin: 20px 0;
+    align-items: center;
+    margin: 20px 0;
 }
