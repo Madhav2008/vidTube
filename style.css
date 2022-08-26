@@ -416,4 +416,6 @@ nav {
     margin-bottom: 2px;
 }
 
-.old-comment h3 span {font-size: 12px;}
+.old-comment h3 span {
+    font-size: 12px;
+}
