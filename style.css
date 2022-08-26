@@ -424,5 +424,6 @@ nav {
 }
 
 .old-comment .acomment-action {
-    display: flex;align-items: center;
+    display: flex;
+    align-items: center;
 }
