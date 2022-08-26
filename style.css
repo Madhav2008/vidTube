@@ -399,4 +399,6 @@ nav {
     background: transparent;
 }
 
-.old-comment {display: flex;}
+.old-comment {
+    display: flex;
+}
