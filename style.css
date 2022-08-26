@@ -425,5 +425,6 @@ nav {
 
 .old-comment .acomment-action {
     display: flex;
-    align-items: center;margin: 8px 0;
+    align-items: center;
+    margin: 8px 0;
 }
