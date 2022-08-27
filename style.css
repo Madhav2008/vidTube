@@ -458,5 +458,7 @@ nav {
         padding-left: 5%
     }
 
-    .vid-description {padding-left: 0;}
+    .vid-description {
+        padding-left: 0;
+    }
 }
