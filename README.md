@@ -18,7 +18,7 @@
 
 ![5](https://user-images.githubusercontent.com/72864817/187043319-a07ab9b8-4a94-456c-a935-4d1146987213.png)
 
-
+![6](https://user-images.githubusercontent.com/72864817/187043321-b427df27-8cfd-4548-88b8-837902d459a3.png)
 
 ## I-Phone 11 Pro Max
 
