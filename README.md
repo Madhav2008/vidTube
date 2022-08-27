@@ -20,4 +20,4 @@
 
 
 
-## I-Phone 11 Pro
+## I-Phone 11 Pro Max
