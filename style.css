@@ -446,5 +446,7 @@ nav {
 }
 
 @media(max-width: 900px) {
-    .play-video {flex-basis: 100%;}
+    .play-video {
+        flex-basis: 100%;
+    }
 }
