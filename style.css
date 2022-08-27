@@ -462,5 +462,7 @@ nav {
         padding-left: 0;
     }
 
-    .play-video .play-video-info a {margin-left: 0;}
+    .play-video .play-video-info a {
+        margin-left: 0;
+    }
 }
