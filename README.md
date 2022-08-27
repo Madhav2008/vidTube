@@ -6,4 +6,4 @@
 
 # Screenshots
 
-## MacBook
+## MacBook Air
